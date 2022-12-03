@@ -4,9 +4,7 @@
 <!--platinum end-->
 <img width="500px" src="https://raw.githubusercontent.com/koleksibot/Sofware-Tools/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png">
 
-> Update 3 Desember 2022
-
-<img width="500px" src="https://api.lolhuman.xyz/api/random/wallnime?apikey=SadTeams">
+---
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
