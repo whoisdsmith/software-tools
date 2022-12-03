@@ -1,64 +1,6 @@
 ## Sofware-Tools
 ---
 
-<div align="center">
-
-<a href="">![Alt](https://repobeats.axiom.co/api/embed/f21168a26fa5ebf352888841fc181737b634e739.svg "Repobeats analytics image")</a>
-
-</div>
-
-<img width="500px" src="https://api.lolhuman.xyz/api/random/cecan?apikey=SadTeams">
-
-<p align="center">
-  <a href="https://github.com/tahaluindo"><img alt="awesome" src="https://awesome.re/badge.svg"/></a>
-  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img alt="License: CC0-1.0" src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg"/></a>
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
-</p>
-<!--platinum start-->
-<img width="500px" src="https://api.lolhuman.xyz/api/random/loli?apikey=SadTeams">
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vueschool.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://vehikl.com/" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://passionatepeople.io/" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.storyblok.com" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storyblok.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://ionicframework.com/vue?utm_source=partner&utm_medium=referral&utm_campaign=vuesponsorship&utm_content=vuedocs" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/ionic.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://nuxtjs.org/" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nuxt.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.refurbed.org/?utm_source=vuejs" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/refurbed.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-  </tbody>
-</table>
 <!--platinum end-->
 <img width="500px" src="https://raw.githubusercontent.com/koleksibot/Sofware-Tools/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png">
 
@@ -6637,47 +6579,6 @@ HTML Themes and UI Kits to create your applications faster!
   * [UseCSV by Layercode](https://layercode.com/usecsv) — Add CSV and Excel import to your web app in minutes. Give your users an enjoyable and robust data import experience. Get Started for Free without any credit card details, and start integrating UseCSV today. You can create unlimited Importers and upload files up to 100Mb.
   * [Buttons Generator](https://markodenic.com/tools/buttons-generator/) — 100+ buttons you can use in your project.
   * [WrapPixel](https://www.wrappixel.com/) — Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJs and NuxtJs!
-  * [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.
-
-
-<p align="center">
-  <a href="https://circleci.com/ahmadchendev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
-  <a href="https://codecov.io/github/koleksibot/vue?branch=dev"><img src="https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true" alt="Coverage Status"></a>
-  <a href="https://npmcharts.com/compare/vue?minimal=true"><img src="https://img.shields.io/npm/dm/vue.svg?sanitize=true" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/"><img src="https://img.shields.io/npm/l/vue.svg?sanitize=true" alt="License"></a>
-  <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
-  <br>
-  <a href="https://app.saucelabs.com/builds/50f8372d79f743a3b25fb6ca4851ca4c"><img src="https://app.saucelabs.com/buildstatus/vuejs" alt="Build Status"></a>
-</p>
-
-<h3 align="center">Special Sponsors</h3>
-<!--special start-->
-
-<p align="center">
-  <a href="https://www.dcloud.io/hbuilderx.html?hmsr=vue-en&hmpl=&hmcu=&hmkw=&hmci=" target="_blank">
-    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/hbuilder.png">
-  </a>
-</p>
-  
-<!--special end-->
+  * [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, 
 
 ---
-
-
-## Contribution
-
-Please make sure to read the [Contributing Guide](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md) before making a pull request. If you have a Vue-related project/component/tool, add it with a pull request to [this curated list](https://github.com/vuejs/awesome-vue)!
-
-Thank you to all the people who already contributed!
-
-<a href="https://github.com/koleksibot/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
-
-Copyright (c) 2022-present, Koleksibot
-
-**[⬆ back to top](#table-of-contents)**
-
