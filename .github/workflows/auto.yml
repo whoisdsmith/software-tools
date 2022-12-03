@@ -1,0 +1,51 @@
+name: Auto commit
+
+on:
+
+  push:
+    branches:
+      - main
+      
+  schedule:
+  - cron: "0 7,8,9,10,11 * * *"
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2      
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+
+      - name: Modify last update
+        run: |
+          cat > LAST_UPDATED
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "73812536+upptime-bot@users.noreply.github.com"
+          git config --local user.name "Upptime Bot"
+          git add -A
+          
+          arr[0]="LulzGhost-Team BOT: Hallo Saya Github-Action BOT✌"
+          arr[1]="LulzGhost-Team BOT: Hallo Saya Github-Action BOT✨"
+          arr[2]="LulzGhost-Team BOT: Hallo Saya Github-Action BOT👻"
+          arr[3]="LulzGhost-Team BOT: 📌 Hallo Saya Github-Action BOT"
+          arr[4]="LulzGhost-Team BOT: 😷 Hallo Saya Github-Action BOT"
+          arr[5]="LulzGhost-Team BOT: Hallo Saya Github-Action BOT"
+          arr[6]="LulzGhost-Team BOT: Hallo Saya Github-Action BOT🐣"
+          arr[7]="LulzGhost-Team BOT: Hallo Saya Github-Action BOT"
+          
+          rand=$[$RANDOM % ${#arr[@]}]
+          
+          git commit -m "${arr[$rand]}"
+          
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GH_TOKEN }}

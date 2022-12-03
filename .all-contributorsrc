@@ -1,0 +1,70 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tahaluindo",
+      "name": "tahaluindo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6315466?v=4",
+      "profile": "https://s.id/koleksibot",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "tool",
+        "test",
+        "projectManagement",
+        "ideas"
+      ]
+    },
+    {
+      "login": "retry19",
+      "name": "Reza Rachmanuddin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39640211?v=4",
+      "profile": "http://retry19.com",
+      "contributions": [
+        "bug",
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "febrifahmi",
+      "name": "febrifahmi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12995919?v=4",
+      "profile": "https://github.com/febrifahmi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "guntoroyk",
+      "name": "Guntoro Yudhy Kusuma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24248495?v=4",
+      "profile": "https://guntoroyk.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "NurfitraPujo",
+      "name": "Nurfitra Pujo Santiko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26681203?v=4",
+      "profile": "http://nurfitrapujo.vercel.app",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Sofware-Tools",
+  "projectOwner": "tahaluindo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": false
+}
